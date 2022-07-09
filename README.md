@@ -2,7 +2,7 @@
 
 `Golang` package to send emails.
 
-At the momento can be used only with `sendgrid` or `aws - simple email service`.
+At the moment can be used only with `sendgrid` or `aws - simple email service`.
 
 ## Examples
 
